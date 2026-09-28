@@ -1,4 +1,4 @@
-# 🥳 LeetCode 1614 — Maximum Nesting Depth of the Parentheses
+# LeetCode 1614 — Maximum Nesting Depth of the Parentheses
 
 > **Python 3 • Stack/Counter Thinking • Beginner Friendly 🚀**
 
@@ -19,7 +19,7 @@ The key observation is wonderfully simple:
 
 ## 🎬 Little Animation
 
-![Animated depth trace](./leetcode_1614_max_depth_animation.gif)
+![Animated depth trace](./1614.gif)
 
 The animation shows the running `depth` and `maximum depth` while scanning the string from left to right.
 
