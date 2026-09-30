@@ -23,13 +23,7 @@ The key observation is wonderfully simple:
 - Every `')'` **closes** one level: `depth -= 1` ➖
 - We assign each parenthesis to group `depth & 1` (even/odd) 🎨
 - This **alternates** nesting levels between `A` and `B`, keeping both shallow! 🏊
-
-## 🎬 Little Animation
-
-![Animated Parentheses Split trace](./1111.gif)
-
-The animation shows the `depth` going up ⬆️ and down ⬇️ as we scan the string, each parenthesis getting painted 🎨 group `0` (blue) or `1` (red) based on `depth & 1`. Watch how deep nests get **split** between the two groups like a zipper! 🤐
-
+  
 ---
 
 ## 🐢 Brute-Force Solution
