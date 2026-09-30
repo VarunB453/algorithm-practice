@@ -20,12 +20,6 @@ The key observation is wonderfully simple:
 - A path is valid only if `balance` **never goes negative** 🚫 and ends at exactly **0** at the destination 🏁
 - We only move **down** or **right**, so we can **DFS** with a `balance` tracker and **memoize** states we've already explored 🗺️
 
-## 🎬 Little Animation
-
-![Animated Parentheses Path trace](./2267.gif)
-
-The animation shows the DFS exploring right/down moves, the `balance` going up ⬆️ and down ⬇️, and the memo table filling up as we prune repeated states. The golden path highlights the winning route! 🏆
-
 ---
 
 ## 🐢 Brute-Force Solution
