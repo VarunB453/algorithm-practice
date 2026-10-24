@@ -64,10 +64,13 @@ algorithm-practice/
 │   │   └── solution.py3
 │   └── ...
 │
-└── 100_Days/
-    ├── 001/
-    |   ├── README.md
-    │   └── solution.py3
+├── 100_Days/
+|   ├── 001/
+|   |   ├── README.md
+|   │   └── solution.py3
+|   └── ...
+└── Prepare/
+    ├── Leetcode_00.py3
     └── ...
 
 ```
