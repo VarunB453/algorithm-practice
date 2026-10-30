@@ -80,7 +80,7 @@ class Solution:
 
 The animation below walks through `nums = [-7, -3, 2, 3, 11]`. At each step, the larger square is placed into the rightmost unfilled output position.
 
-![Two-pointer walkthrough animation](977_sorted_squares_animation.gif)
+![Two-pointer walkthrough animation](977.gif)
 
 ### Step-by-step walkthrough
 
