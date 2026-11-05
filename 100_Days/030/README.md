@@ -120,7 +120,7 @@ The input is valid because every closing bracket matches the most recent unmatch
 
 ### 🎞️ Animated Stack Walkthrough
 
-![Animated stack walkthrough](assets/valid-parentheses-stack.gif)
+![Animated stack walkthrough](20.gif)
 
 ### Complexity Analysis
 
