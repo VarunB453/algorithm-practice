@@ -122,7 +122,7 @@ Simply compare the current node with the next node.
 
 The animation illustrates how adjacent duplicate nodes are bypassed while the current pointer stays in place until a distinct value is found.
 
-![Animated walkthrough of LeetCode 83](83.gif)
+![Animated walkthrough of LeetCode 83](./83.gif)
 
 ### 🧪 Optimal Python 3 Solution
 
