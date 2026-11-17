@@ -1,4 +1,4 @@
-# LeetCode Solutions in Python
+# LeetCode Solutions in Python :
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Think.%20Solve.%20Improve.&fontSize=38&fontAlignY=35&desc=One%20LeetCode%20Problem%20at%20a%20Time&descAlignY=58&animation=fadeIn" width="100%" alt="Think, Solve, Improve banner" />
